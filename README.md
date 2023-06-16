@@ -1,7 +1,7 @@
 # Bike-Purchases-Dashboard-in-Excel
 Utilized fake personal customer data to analyze which factors contribute to a customer's decision in purchasing a bike.
 The data has been cleaned for data validity and completeness with column binning done on the Age column to gather further useful insight and saved as a new sheet.
-Pivot tables have been utilized to create a dashboard
+Pivot tables have been utilized to create a dashboard.
 Upon creating the dashboard, we can derive few key insights from the given dataset:
 1) We notice that bike purchases are the highest in North American and Europe regions
 2) Bike purchases are higher within the 'Male' customer group. We can also switch up the slicers for marital status, children and cars to notice that married customers with children (specially 3+ children) are more likely to purchase a bike
